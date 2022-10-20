@@ -1,6 +1,5 @@
 # akshatsharma
 form page
-<!DOCTYPE html>
 <html>
 <body> 
 
