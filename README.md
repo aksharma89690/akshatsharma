@@ -1,4 +1,3 @@
-
 <html>
 <body> 
 
@@ -12,4 +11,3 @@ Pasword:<input type = "Password" name="Password" value=""><br>
 
 </body>
 </html>
-
